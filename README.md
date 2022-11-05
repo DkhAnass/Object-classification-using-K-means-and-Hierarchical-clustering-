@@ -27,7 +27,7 @@ Having all required modules installed.
  </p>
 
 ## Results
-
+In reason of time taken to train and lack of powerful enough equipement, I only used four classes from the dataset caltech256 and four clusters, so the accuracy of the model may change depending on the amount of classes you train the model on.
 ### K-means Model: 
 
 
