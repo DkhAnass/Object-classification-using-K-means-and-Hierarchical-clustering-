@@ -28,7 +28,11 @@ Having all required modules installed.
 
 ## Results
 
-K-means Model: 
+### K-means Model: 
+
+
 Training accuracy: 97%
-Hiearchical clusterning:
+### Hiearchical clusterning:
+
+
 Training accuracy: 10%
