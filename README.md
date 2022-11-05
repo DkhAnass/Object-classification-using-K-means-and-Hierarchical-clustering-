@@ -26,6 +26,9 @@ Having all required modules installed.
   <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
  </p>
 
-## Usage
+## Results
 
-Run 
+K-means Model: 
+Training accuracy: 97%
+Hiearchical clusterning:
+Training accuracy: 10%
